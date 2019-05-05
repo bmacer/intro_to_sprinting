@@ -26,7 +26,7 @@ They are often limited by the sprint leader's availability to help them learn. T
 
 This project aims to fix some of these problems by having materials and instructions available via group/classroom study AND self-study so that new contributors can learn the basics before they ever sit down with their sprint leader and can start focusing more on the project and less on the learning curve. In addition, should they run into a problem, they have a ready resource to return to, thus taking some of the burden off the sprint lead.
 
-# Overview
+# OVERVIEW
 
 This workshop provides a high-level overview of the steps, tools and tradecraft needed to introduce beginners to open source sprints. The workshop provides lecture/demo **AND** lots of hands-on in the following areas.
 
